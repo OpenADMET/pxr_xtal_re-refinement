@@ -1,3 +1,7 @@
+# PXR PDB crystal structure re-refinement
+
+[![DOI](https://zenodo.org/badge/1224187531.svg)](https://doi.org/10.5281/zenodo.21504333)
+
 This repository contains the rerefined PXR structures. Each PDB entry in the final dataset has a pdb structure, cif structure, and mtz reflection file in pxr_rerefined_structures.
 
 Additionally, this repository contains the refinement scripts used to refine these structures in refinement_scripts. Structures were refined with on of two methods, named refinement_1 and refinement_2. pxr_pdb_ids.txt contains the information on each pdb deposition that was used as input for refinement.
